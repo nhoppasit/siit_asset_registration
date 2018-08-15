@@ -1,0 +1,1 @@
+# siit_asset_registration
